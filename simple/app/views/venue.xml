@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="win_1" title="Venue" backgroundImage="desaturated.jpg" backgroundColor="#547cbc">
+		<View id="view1" class='generic_View' activated='false'>
+			<Button id="sw1" class='button' onClick="blam">CLICK</Button>
+		</View>
+	</Window>
+</Alloy>

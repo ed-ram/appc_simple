@@ -1,0 +1,5 @@
+<Alloy>
+		<Window title="Videos" backgroundColor="#507cbc">
+			<WebView src="https://www.google.com" />
+	</Window>
+</Alloy>
