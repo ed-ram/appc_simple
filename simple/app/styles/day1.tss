@@ -1,0 +1,22 @@
+"#btnGet": { 
+  top: "10%",
+  color: 'white',
+}
+
+"#btnSet": {
+  top: "25%",
+  color: 'white'
+}
+
+".btnWrapper": {
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+    backgroundColor: 'red'
+}
+
+".btnLong" : {
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+    top: '10dp', bottom: '10dp', left: '10dp', right: '10dp', 
+    backgroundColor: 'rgba(1,1,1,0.5)',
+}

@@ -1,6 +1,4 @@
 <Alloy>
-<Window backgroundImage="color.jpg">
 	<View class="container">
 	</View>
-</Window>
 </Alloy>

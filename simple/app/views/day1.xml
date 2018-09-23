@@ -1,0 +1,15 @@
+<Alloy>
+	<TableView id="day1table" class="table">
+		<TableViewRow id="row" class="row" rowId="">
+			<View class="timeCol">
+				<Label id="time" class="timeCaption">9am - 10am</Label>
+				<Label id="location" class="locationCaption">Great Hall</Label>
+			</View>
+			<View class="descriptionCol">
+				<Label id="talkname" class="talkname"> content goes hyah </Label>
+				<Label id="speaker" class="speaker"> Gary Pounder </Label>
+				<Label id="talkdescription" class="talkdescription"> GPounder talks about pnding hawfe;hawe;fohawf;i </Label>
+			</View>
+		</TableViewRow>
+	</TableView>
+</Alloy>
